@@ -8,3 +8,19 @@
 *{
     outline: 1px dotted orange;
 }
+
+/* Global. Site. Base. Universal.*/
+
+/* Homepage */
+.home{
+    background: teal;
+}
+/* Bio */
+.bio{
+    background: turquoise;
+}
+
+/* Contact */
+.contact{
+background: thistle;
+}
