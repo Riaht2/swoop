@@ -33,3 +33,10 @@ h1 {
 .contact{
 background: thistle;
 }
+
+/* Portfolio */
+figure{
+  background: #c0ffee;
+  width: 200px;
+  padding: 1em;
+}
